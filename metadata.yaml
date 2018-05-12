@@ -1,0 +1,36 @@
+_repo: Cartilha-MaternalArte-de-Leitura_46334
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46334-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Deus, João de
+    aliases:
+    - De Deus, João
+    - Ramos, João de Deus
+    - Deus, Joao de
+    - Nogueira Ramos, João de Deus
+    birthdate: 1830
+    deathdate: 1896
+    gutenberg_agent_id: '26769'
+    url: http://www.gutenberg.org/2009/agents/26769
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jo%C3%A3o_de_Deus
+    - http://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Deus_de_Nogueira_Ramos
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46334'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese language -- Study and teaching'
+- !lcsh 'Portuguese language -- Orthography and spelling'
+- !lcsh 'Portuguese language -- Orthography and spelling -- Handbooks, manuals, etc.'
+- !lcc 'PC'
+title: Cartilha Maternal; ou, Arte de Leitura
+url: http://www.gutenberg.org/ebooks/46334
