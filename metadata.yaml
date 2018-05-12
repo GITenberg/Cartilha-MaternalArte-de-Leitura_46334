@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jo%C3%A3o_de_Deus
     - http://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Deus_de_Nogueira_Ramos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46334#Cartilha-MaternalArte-de-Leitura
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
